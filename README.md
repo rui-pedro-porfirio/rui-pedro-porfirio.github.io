@@ -1,2 +1,2 @@
 # Personal Webpage - Rui Pedro Porfírio
-Personal website showcasing my personal webpage. 
+Personal website showcasing my personal webpage.  
