@@ -1,3 +1,11 @@
+/* Ensure Recent Posts images fit the fixed size */
+.features .image img {
+	width: 220px !important;
+	height: 150px !important;
+	object-fit: contain !important;
+	display: block;
+	background: #fff;
+}
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic|Source+Code+Pro:400");
 
